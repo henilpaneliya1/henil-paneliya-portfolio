@@ -682,7 +682,7 @@ body.preloading {
 }
 
 .timeline-item:nth-child(odd) .timeline-content {
-    text-align: right;
+    text-align: left;
 }
 
 .timeline-content h3 {
